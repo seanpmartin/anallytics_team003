@@ -1,0 +1,24 @@
+The list below are centers in the LSD network
+
+Albert Einstein College of Medicine, Children 's Hospital at Montefiore, Bronx, New York City, NY
+Baylor Research Institute and Baylor College of Medicine, Dallas, TX
+Children's Hospital and Research Center Oakland, Oakland, CA
+Duke University, Durham, NC
+Emory University School of Medicine, Decatur, GA
+Hospital for Sick Children, Toronto, Ontario, Canada
+Joan and Sanford Weill Medical College of Cornell University, New York City, NY
+Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center, Torrance, CA
+Mayo Clinic, Rochester, MN
+New York University School of Medicine, New York City, NY
+State University of New York, University at Buffalo, Buffalo, NY
+University of California at San Francisco, San Francisco, CA
+University of Minnesota, Minneapolis, MN
+University of Washington, Seattle, WA
+
+NY
+TX
+CA
+NC
+GA
+MN
+WA
